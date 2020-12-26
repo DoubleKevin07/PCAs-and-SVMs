@@ -1,4 +1,4 @@
-# PCAs-and-SVMs function descriptions
+# PCAs-and-SVMs
 # Usage
 run `python test_script.py`
 
