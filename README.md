@@ -1,5 +1,8 @@
 # PCAs-and-SVMs function descriptions
 # Usage
+run `python test_script.py`
+
+The code will then show output for PCA and SVM calculations given imported data (data_1.txt, data_2.txt).
 
 # Function descriptions:
 ## PCAS:
